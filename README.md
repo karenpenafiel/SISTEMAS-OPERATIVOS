@@ -181,6 +181,19 @@ Primer Ciclo
             ├── BajaE1
             └── MediaE2
 
+PARA LOS CUENTOS, PRIMERO DESCARGA Y ABRE EN GOOGLE PARA COPIAR EL LINK Y EJECUTA ESTE COMANDO copiando el link de la pagina:
+wget https://www.seracademia.com/academia/MilyUnaNoche.txt
+ls
+Este comando a continuación ayudará a contar cuántas palabras tiene el archivo MilyUnaNoche.txt y mostrar el resultado en pantalla con una etiqueta personalizada, evitando que aparezca el nombre del archivo al final.
+echo "Mil y una Noche: $(wc -w < MilyUnaNoche.txt)"
+
+PARA CAPERUCITA ROJA EJECUTA LO MISMO SOLO CAMBIANDO EL NOMBRE DEL ARCHIVO:
+wget https://www.seracademia.com/academia/caperucitaraoja.txt
+ls
+echo "Caperucita Roja: $(wc -w < caperucitaraoja.txt)"
+
+
+
 16 directories, 11 files
 
 
