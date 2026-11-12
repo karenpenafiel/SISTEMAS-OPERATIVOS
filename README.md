@@ -68,7 +68,6 @@ find . -type d -name "*[1-3]"
 find . -type f -name "*[E][3]"
 Nombres de los compañeros
 nano Primer\ Ciclo/Redes\ de\ Datos/U2/estudiantes.txt
-<img width="476" height="98" alt="image" src="https://github.com/user-attachments/assets/92eca010-3e40-4eb6-8c43-5d3a096b8a25" />
 Ctrl + O, ENTER, Ctrl + X
 tree Primer\ Ciclo/
 RESULTADO:
